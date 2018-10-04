@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.usersList {
+ width:300px;
+ height:45px;
+ background:#ecec9a;
+ border-bottom:2px solid black
+}
+
+.activeUser {
+  background:#aceeac;
+}
+
+.sub-container {
+  width:1200px;
+  height:500px;
+  float:left;
+}
